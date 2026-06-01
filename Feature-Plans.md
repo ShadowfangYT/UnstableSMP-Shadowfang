@@ -7,6 +7,10 @@ The plugin is intended to provide:
 - per-player gameplay customization
 - configurable behavior through commands and a config file
 
+## Links to the Plugin
+- Modrinth: [Death Sound Plugin - UnstableSMP](https://modrinth.com/plugin/death-sound-plugin-unstablesmp)
+- Support Discord: [Join here](https://discord.gg/ckPnDAGJkV)
+
 ---
 
 ## Planned Features
